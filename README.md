@@ -10,9 +10,23 @@
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: My first computer I programmed on was a PDP-11 in the Boston Children Science Museum in 1976
 
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg"/>]()
+
+
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg"/>]()
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"/>]()
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg"/>]()
+
+
+
+
 Interesting projects:
 
-[Catulator](https://github.com/realityexpander/Catulator) - Compose-based cat calculator with MVVM 
+- [Catulator](https://github.com/realityexpander/Catulator) - Compose-based cat calculator app with MVVM
+- [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
