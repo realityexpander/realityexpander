@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Android native and React-native projects
+- 🌱 I’m currently learning modern Android architecture methods
+- 📫 How to reach me: realityexpanderdev@gmail.com
+- ⚡ Fun fact: My first computer I programmed on was a PDP-11 in the Boston Children Science Museum in 1976
+
+![Profile Views](https://gpvc.arturio.dev/[realityexpander])
+
