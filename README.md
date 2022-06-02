@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: My first computer I programmed on was a PDP-11 in the Boston Children Science Museum in 1976
 
-![Profile Views](https://gpvc.arturio.dev/[realityexpander])
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
