@@ -4,7 +4,6 @@
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 - 🔭 I’m currently working on Android native and React-native projects
 - 🌱 I’m currently learning modern Android architecture methods
 - 📫 How to reach me: realityexpanderdev@gmail.com
@@ -26,7 +25,7 @@ Interesting projects:
 
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM and Compose
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
-- [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) - Convenient way to track Zombie Outbreaks worldwide
+- [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide
 - [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla site as an Android App with HTML5
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on `dictionaryapi.dev`
 
