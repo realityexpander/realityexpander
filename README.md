@@ -24,7 +24,7 @@
 
 Interesting projects:
 
-- [Catulator](https://github.com/realityexpander/Catulator) - Compose-based cat calculator app built with MVVM
+- [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM and Compose
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) - Convenient way to track Zombie Outbreaks worldwide
 - [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla site as an Android App with HTML5
