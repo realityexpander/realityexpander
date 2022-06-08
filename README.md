@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Android native and React-native projects
 - 🌱 I’m currently learning modern Android architecture methods
 - 📫 How to reach me: realityexpanderdev@gmail.com
-- ⚡ Fun fact: My first computer I programmed on was a PDP-11 in the Boston Children Science Museum in 1976
+- ⚡ Fun fact: My first computer I programmed on was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children Science Museum in 1976
 
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
