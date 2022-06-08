@@ -29,6 +29,7 @@ Interesting projects:
 - [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla site as an Android App with HTML5
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev)
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
+- [MVVMTodo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
