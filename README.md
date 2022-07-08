@@ -23,7 +23,7 @@
 [![RealityExpander StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200)](https://stackoverflow.com/users/2857200/RealityExpander)
 -->
 
-Interesting projects:
+### Interesting projects:
 
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using standard cat-zero notation
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
@@ -33,6 +33,7 @@ Interesting projects:
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVMTodo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
+### Portfolio Site (not updated since 2019, this repo is more recent)
+- [RealityExpander Portfolio](https://realityexpander.wix.com/resume)
