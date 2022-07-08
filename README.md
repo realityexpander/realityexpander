@@ -35,5 +35,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
-### Portfolio Site (not updated since 2019, this repo is more recent)
+### Portfolio Site (not updated since 2018, this repo is more recent)
 - [RealityExpander Portfolio](https://realityexpander.wix.com/resume)
