@@ -25,6 +25,8 @@
 
 ### Interesting projects:
 
+- [KtorNoteApp](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Authentication & Ktor Server Backend
+- [GuessASketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server.
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using standard cat-zero notation
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide
@@ -32,6 +34,7 @@
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev)
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVMTodo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
