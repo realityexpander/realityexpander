@@ -25,7 +25,7 @@
 
 ### Interesting projects:
 
-- [KtorNoteApp](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Accounts, Authentication and Ktor Server Backend
+- [KtorNoteApp](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Accounts, Authentication, Encryption and Ktor Server Backend
 - [GuessASketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
