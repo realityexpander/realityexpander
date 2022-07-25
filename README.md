@@ -17,7 +17,7 @@
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg"/>]()
 
-[<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=2592000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
+StackOverflow: [<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=2592000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
 
 <!--
 [![RealityExpander StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200)](https://stackoverflow.com/users/2857200/RealityExpander)
