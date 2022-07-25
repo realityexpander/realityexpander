@@ -29,7 +29,7 @@
 - [GuessASketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
-- [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`]
+- [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide
 - [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla site as an Android App with HTML5
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev)
