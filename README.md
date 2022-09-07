@@ -23,7 +23,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 [![RealityExpander StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200)](https://stackoverflow.com/users/2857200/RealityExpander)
 -->
 
-### Interesting projects:
+### Interesting projects I have built:
 
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Ktor Notes App](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Accounts, Authentication, Encryption and Ktor Server Backend
