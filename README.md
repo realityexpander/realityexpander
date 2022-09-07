@@ -33,7 +33,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
-- [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadset site as an Android App with HTML5
+- [Tesla](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadset site as an Android App with HTML5, Bootstrap
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev)
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVMTodo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
