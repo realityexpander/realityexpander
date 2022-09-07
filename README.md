@@ -12,7 +12,6 @@
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
 
-
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg"/>]()
@@ -30,6 +29,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server
 - [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming service using a Firebase back-end and the Exoplayer library
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
+- [Agora VideoConferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library.
 - [Weather Here](https://github.com/realityexpander/WeatherHere) - Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
