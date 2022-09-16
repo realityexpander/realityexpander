@@ -29,6 +29,7 @@
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [RealityExpander Portfolio](https://realityexpander.wix.com/resume)
+- [LinkedIn Profile](https://www.linkedin.com/in/chris-athanas/)
 
 ### Yes, I have badges! :)
 
