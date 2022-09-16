@@ -27,7 +27,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
 - [Ktor Notes App](https://github.com/realityexpander/KtorNoteApp) - Fully implemented MVVM Note App with Accounts, Authentication, Encryption and Ktor Server Backend
-- [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server
+- [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming service using a Firebase back-end and the Exoplayer library
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
 - [Agora VideoConferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library.
@@ -36,7 +36,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
 - [Tesla App](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadset site as an Android App with HTML5, Bootstrap
-- [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev)
+- [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
 
