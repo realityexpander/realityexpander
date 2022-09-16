@@ -30,6 +30,8 @@
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [RealityExpander Portfolio](https://realityexpander.wix.com/resume)
 
+### Yes, I have badges! :)
+
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
 
