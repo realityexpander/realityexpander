@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Android native and React-native projects
-- 🌱 I’m writing an Android game to learn about WebSockets and real-time UI
+- 🌱 I’m exploring latest techniques in Android, things change quickly around here.
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 
