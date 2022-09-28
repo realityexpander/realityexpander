@@ -9,7 +9,7 @@
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 
-### Interesting projects I have built:
+### Interesting Android Native projects I have built:
 
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
