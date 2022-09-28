@@ -28,7 +28,7 @@
 - [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
-- [RealityExpander Portfolio](https://realityexpander.wix.com/resume)
+- [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
 - [LinkedIn Profile](https://www.linkedin.com/in/chris-athanas/)
 
 ### Yes, I have badges! :)
