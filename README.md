@@ -63,6 +63,7 @@
 StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=92000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
 
 ![Chris's Github Stats](https://github-readme-stats.vercel.app/api?username=realityexpander&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realityexpander&layout=compact&langs_count=7&theme=algolia"/>
 
 <!--
 [![RealityExpander StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200)](https://stackoverflow.com/users/2857200/RealityExpander)
