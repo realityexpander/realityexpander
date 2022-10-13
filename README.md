@@ -11,6 +11,7 @@
 
 ### Interesting Android Native projects I have built:
 
+- [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Works on iOS and Android.
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
