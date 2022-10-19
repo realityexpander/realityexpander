@@ -30,11 +30,15 @@
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
 
+### Medium Articles
+- [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
+
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
 - [LinkedIn Profile](https://www.linkedin.com/in/chris-athanas/)
 
 StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=92000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
+![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
 ![Chris's Github Stats](https://github-readme-stats.vercel.app/api?username=realityexpander&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realityexpander&layout=compact&langs_count=7&theme=algolia"/>
@@ -69,7 +73,7 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 <p float="left">
-<img style="padding:5px;" align="center" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/>  
+<!-- <img style="padding:5px;" align="center" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/> -->
 <img style="padding:5px;" align="center" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> 
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
@@ -86,7 +90,5 @@ StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/a
 <!--
 [![RealityExpander StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200)](https://stackoverflow.com/users/2857200/RealityExpander)
 -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
 
