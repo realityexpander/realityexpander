@@ -19,6 +19,7 @@
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
+- [Stock Market Info](https://github.com/realityexpander/StockMarketApp) - Gives lots of information about stocks, uses [`AlphaAdvanatage`](https://www.alphavantage.co/) api, Compose custom graphs, CLEAN and SOLID design
 - [Video Player/Recorder](https://github.com/realityexpander/VideoPlayerCompose) - Video player and recording using Exoplayer. Implements Compose, Exoplayer, Hilt.
 - [Video Conferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library (requires key generation for 24 hour access)
 - [Weather Here](https://github.com/realityexpander/WeatherHere) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
