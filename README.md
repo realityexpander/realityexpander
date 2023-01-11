@@ -39,7 +39,13 @@
 - [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
 - [LinkedIn Profile](https://www.linkedin.com/in/chris-athanas/)
 
-StackOverflow reputation: [<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=92000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
+StackOverflow reputation: 
+<!--
+[<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2857200?maxAge=12000"/>](https://stackoverflow.com/users/2857200/RealityExpander)
+-->
+
+[<a href="https://stackoverflow.com/users/2857200/realityexpander"><img src="https://stackoverflow.com/users/flair/2857200.png?theme=dark" width="208" height="58" alt="profile for RealityExpander at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for RealityExpander at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>](https://stackoverflow.com/users/2857200/RealityExpander)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=realityexpander)
 
 ![Chris's Github Stats](https://github-readme-stats.vercel.app/api?username=realityexpander&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple)
