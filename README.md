@@ -5,14 +5,14 @@
 -->
 
 - 🔭 I’m currently working on Android native and React-native projects
-- 🌱 I’m exploring latest techniques in Android, things change quickly around here.
+- 🌱 I’m exploring latest techniques in Android, things change quickly around here!
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 
 ### Interesting Android Native projects I have built:
 
-- [Tasky](https://github.com/realityexpander/Tasky) - Tasky - Lite version of Google Calendar to track daily agenda items.
-- [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Deployable to iOS and Android.
+- [Tasky](https://github.com/realityexpander/Tasky) - Tasky - Lite version of Google Calendar to track daily agenda items
+- [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Deployable to iOS and Android
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
@@ -20,9 +20,9 @@
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
 - [Catulator](https://github.com/realityexpander/Catulator) - 😸 Cat calculator app built with MVVM/MVI and Compose, using scientifikitten cat-zero notation
-- [Cats vs. Dogs](https://github.com/realityexpander/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets.
+- [Cats vs. Dogs](https://github.com/realityexpander/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
 - [Stock Market Info](https://github.com/realityexpander/StockMarketApp) - Gives lots of information about stocks, uses [`AlphaAdvanatage`](https://www.alphavantage.co/) api, Compose custom graphs, CLEAN and SOLID design
-- [Video Player/Recorder](https://github.com/realityexpander/VideoPlayerCompose) - Video player and recording using Exoplayer. Implements Compose, Exoplayer, Hilt.
+- [Video Player/Recorder](https://github.com/realityexpander/VideoPlayerCompose) - Video player and recording using Exoplayer. Implements Compose, Exoplayer, Hilt
 - [Video Conferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library (requires key generation for 24 hour access)
 - [Weather Here](https://github.com/realityexpander/WeatherHere) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
