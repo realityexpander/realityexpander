@@ -11,8 +11,8 @@
 
 ### Interesting Android Native projects I have built:
 
-- [Tasky](https://github.com/realityexpander/Tasky) - Tasky - Lite version of Google Calendar to track daily agenda items
-- [Translator KMM](https://github.com/realityexpander/Translator_KMM) - TranslatorKMM - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
+- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items
+- [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
 - [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Deployable to iOS and Android
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
@@ -29,7 +29,7 @@
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
-- [Tesla App](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadset site as an Android App with WebView, HTML5, Bootstrap
+- [Tesla App](https://github.com/realityexpander/TeslaRoadster) - Clone of the Tesla Roadster site as an Android App with WebView, HTML5, Bootstrap
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
