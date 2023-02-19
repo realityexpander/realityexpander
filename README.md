@@ -9,8 +9,6 @@
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 
-[Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
-
 ### Interesting Android Native & iOS projects I have built:
 
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items
@@ -38,6 +36,9 @@
 
 ### Medium Articles
 - [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
+
+### Google Play
+[Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
