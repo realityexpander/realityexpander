@@ -11,7 +11,7 @@
 
 ### Interesting Android Native & iOS projects I have built:
 
-- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items
+- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN architecture.
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
 - [KMM Notes App](https://github.com/realityexpander/NoteAppKMM) - KMM (Kotlin Multiplaform Mobile) example app for taking notes. Deployable to iOS and Android
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
