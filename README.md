@@ -25,7 +25,7 @@
 - [Stock Market Info](https://github.com/realityexpander/StockMarketApp) - Gives lots of information about stocks, uses [`AlphaAdvanatage`](https://www.alphavantage.co/) api, Compose custom graphs, CLEAN and SOLID design
 - [Video Player/Recorder](https://github.com/realityexpander/VideoPlayerCompose) - Video player and recording using Exoplayer. Implements Compose, Exoplayer, Hilt
 - [Video Conferencing](https://github.com/realityexpander/AgoraUIKit) - Video Conferencing app using Compose and Agora video conferencing library (requires key generation for 24 hour access)
-- [Weather Here](https://github.com/realityexpander/WeatherHere) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
+- [Hyperlocal Weather](https://github.com/realityexpander/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 - [Zombie Outbreak Locator](https://github.com/realityexpander/ZombieOutbreakLocator) -  ☣️ Convenient way to track Zombie Outbreaks worldwide using Compose Google Maps Api
