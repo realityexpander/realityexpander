@@ -36,7 +36,7 @@
 - [Shopping Notes](https://github.com/realityexpander/ShoppingNotes) - Shopping list app with MVVM
 - [Crypto Info](https://github.com/realityexpander/CryptoApp) - Gives lots of information about the top coins, uses [`coinpaprika`](https://api.coinpaprika.com/) api, CLEAN and SOLID design
 - [MVVM Todo](https://github.com/realityexpander/MVVMTodoApp) - Simple Todo app showcasing MVVM CLEAN and SOLID practices
-- [Charlly Life Coach](https://github.com/realityexpander/CharllyLifeCoach) - Charlly Finely - Motivational Life Coach AI will solve all your problems!
+- [Charlly Finely Life Coach](https://github.com/realityexpander/CharllyLifeCoach) - Charlly Finely - Motivational Life Coach AI will solve all your problems!
 
 ### Medium Articles
 - [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
