@@ -13,6 +13,7 @@
 
 #### Larger Projects
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
+- [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) - KMP cross-platform iOS/Android app that speaks historical markers as you drive by them.
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
