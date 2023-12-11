@@ -3,8 +3,8 @@
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- My youtube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🔭 I’m currently working on Android native and KMP/KMM projects & employing Alan Kay style OOP techniques
+- My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
