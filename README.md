@@ -13,12 +13,19 @@
 
 #### Larger Projects
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
+  ![image](https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b)
+
 - [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) - KMP cross-platform iOS/Android app that speaks historical markers as you drive by them.
+  ![image](https://github.com/realityexpander/realityexpander/assets/5157474/7a328bfd-2a6a-4031-839d-484ccfac827c)
+
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
+  ![image](https://github.com/realityexpander/realityexpander/assets/5157474/9b7ccf1e-031c-492e-887a-b794de58d3c2)
+
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Cats vs. Dogs](https://github.com/realityexpander/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
 - [Hyperlocal Weather](https://github.com/realityexpander/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
+  ![image](https://github.com/realityexpander/realityexpander/assets/5157474/bac4c221-fac7-4ffb-ae9e-505d861b153c)
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
