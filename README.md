@@ -15,7 +15,7 @@
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
 
-- [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) - KMP cross-platform iOS/Android app that speaks historical markers as you drive by them.
+- [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) - KMP cross-platform iOS/Android app that speaks historical markers as you travel.
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7a328bfd-2a6a-4031-839d-484ccfac827c">](https://github.com/realityexpander/FredsHistoryMarkers.git)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
