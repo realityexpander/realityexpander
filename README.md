@@ -12,7 +12,7 @@
 ### Interesting Android Native & iOS projects I have built:
 
 #### Larger Projects
-- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 100 stars on GitHub!
+- [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 120 stars on GitHub!
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
 
 - [Freds Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) - KMP cross-platform iOS/Android app that speaks historical markers as you travel.
