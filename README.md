@@ -16,7 +16,7 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
 
 - [Freds Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) - KMP cross-platform iOS/Android app that speaks historical markers as you travel.
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be">](https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be">](https://github.com/realityexpander/FredsRoadtripStoryteller.git)
 
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
