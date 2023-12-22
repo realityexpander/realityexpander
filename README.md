@@ -11,7 +11,7 @@
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 
-### Interesting Android Native & iOS projects I have built:
+### Interesting Android, iOS, Web & Cross-platform projects I have built:
 
 #### Larger Projects
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 120 stars on GitHub!
