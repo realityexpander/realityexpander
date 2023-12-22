@@ -5,7 +5,7 @@
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Android native and KMP/KMM projects & employing Alan Kay style OOP techniques
+- 🔭 I’m currently working on KMP/KMM cross-platform iOS & Android projects & employing Alan Kay style OOP techniques
 - My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
