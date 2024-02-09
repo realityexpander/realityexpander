@@ -20,14 +20,17 @@
 - [Freds Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) - KMP cross-platform iOS/Android app that speaks historical markers as you travel.
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be">](https://github.com/realityexpander/FredsRoadtripStoryteller.git)
+   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/FredsRoadtripStoryteller?cache=0&style=social)
   
 - [Tasky](https://github.com/realityexpander/Tasky) - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 120 stars on GitHub!
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/9b7ccf1e-031c-492e-887a-b794de58d3c2">](https://github.com/realityexpander/Translator_KMM)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Translator_KMM?cache=3600&style=social)
 
 - [Guess-A-Sketch](https://github.com/realityexpander/GuessASketch) - Multiplayer Real-time Sketch Game using websockets and Ktor back end server, Speech recognition
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
