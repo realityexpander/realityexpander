@@ -9,7 +9,6 @@
 - My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Freds Historical Markers](https://github.com/realityexpander/FredsHistoryMarkers.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
-- Check my YouTube channel: https://youtube.com/@ChrisAthanas
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Science Museum in 1976
 - Check out the KMP Developers Group on Twitter: https://twitter.com/i/communities/1739883885658607808
 
@@ -26,6 +25,10 @@
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
+
+- [How to Program From the Ground Up Series](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno)
+
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
   
