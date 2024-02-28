@@ -30,6 +30,7 @@
 
   ### YouTube Series:
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
+  ![Video likes](https://img.shields.io/youtube/likes/dBbowkwXtR0)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
@@ -41,6 +42,7 @@
 - [Bike Tracking](https://github.com/realityexpander/BikingApp) - 🚲 Bike Ride tracking app using MVVM, fragments, GPS tracking service, Room database, custom TypeConverters
 - [Cats vs. Dogs](https://github.com/realityexpander/CatsVsDogsAndroid) - Cats versus Dogs for world domination. Realtime 2-player game built with websockets
 - [Hyperlocal Weather](https://github.com/realityexpander/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
+
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/bac4c221-fac7-4ffb-ae9e-505d861b153c">](https://github.com/realityexpander/HyperlocalWeather)
   
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
