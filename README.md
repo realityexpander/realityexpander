@@ -52,7 +52,7 @@
 - [Hyperlocal Weather](https://github.com/realityexpander/HyperlocalWeather) - Hyperlocal Weather tracking application using Compose and [`Open-meteo Api`](https://open-meteo.com)
 
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/bac4c221-fac7-4ffb-ae9e-505d861b153c">](https://github.com/realityexpander/HyperlocalWeather)
-  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/HyperlocalWeather?cache=0&style=social)
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
