@@ -1,5 +1,5 @@
 # Chris Athanas
-## I'm a Kotlin Multi-Platform Developer, Specializing in Android & Web, Competent with iOS
+## I'm a Kotlin Multi-Platform Developer, Specializing in Android, iOS & Web
 
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
