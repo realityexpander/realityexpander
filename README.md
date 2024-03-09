@@ -39,7 +39,7 @@
 - [Compose Tips Series on YouTube](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
 
   ### YouTube Series:
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/6ef3334e-f6d6-4131-89f2-ae9d0520cf62">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/6ef3334e-f6d6-4131-89f2-ae9d0520cf62">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm) ![YouTube Video Views](https://img.shields.io/youtube/views/MEK5D2qEtpI)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
   
