@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## LET ME HELP YOU WITH YOUR CROSS-PLATFORM APP DEVELOPMENT
+# Chris Athanas
+## Kotlin Multi-Platform Developer
 
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +11,9 @@
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) in the Boston Children's Museum in 1976
 - Check out the KMP Developers Group on Twitter: https://twitter.com/i/communities/1739883885658607808
 - Here's my beginners course ["How to Program From The Ground Up"](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) on YouTube
+
+## LET ME HELP YOU WITH YOUR CROSS-PLATFORM APP DEVELOPMENT
+
 
 ### Interesting Android, iOS, Web & Cross-platform projects I have built:
 
@@ -27,12 +29,17 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
 
-- [How to Program From the Ground Up Series - Click Me For The Follow Along Document](https://github.com/realityexpander/How_to_program_from_ground_up)
+- [How to Program From the Ground Up Series - Click here for the follow-along live code document](https://github.com/realityexpander/How_to_program_from_ground_up)
 
   ### YouTube Series:
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
   ![Video likes](https://img.shields.io/youtube/likes/dBbowkwXtR0)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
+
+- [Compose Tips Series on YouTube](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
+
+  ### YouTube Series:
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/6ef3334e-f6d6-4131-89f2-ae9d0520cf62">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
   
