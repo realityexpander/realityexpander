@@ -78,6 +78,7 @@
 - [Cross-platform KMP Android/iOS using Google Maps with 100% Compose UI](https://medium.com/@chrisathanas/kmp-android-ios-using-google-maps-and-100-compose-ui-45271d0bead9)
 - [How to search JSON text and objects using Redis, Ktor and Kotlin](https://medium.com/@chrisathanas/how-to-search-json-text-and-objects-using-redis-ktor-and-kotlin-555d82f62ae4)
 - [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
+- Click here for all my articles: [CLICK FOR ARTICLES](https://medium.com/@chrisathanas)
 
 ### Google Play
 - [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
