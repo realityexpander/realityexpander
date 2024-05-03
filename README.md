@@ -37,9 +37,9 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
 
 - [Cloud Cover USA 2](https://github.com/realityexpander/CloudCoverUSA2) - iOS, Android, Desktop (Apple silicon)
-
+  
   ### YouTube Series:
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/1cf87381-3ddc-4f88-80ea-853ffe7e08ac">](https://youtu.be/RinDCbTHcQI) ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/CloudCoverUSA2?cache=0&style=social)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/1cf87381-3ddc-4f88-80ea-853ffe7e08ac">](https://youtu.be/RinDCbTHcQI) ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/CloudCoverUSA2?cache=0&style=social) ![YouTube Video Views](https://img.shields.io/youtube/views/RinDCbTHcQI)
  
 - [Compose Tips Series on YouTube](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
 
