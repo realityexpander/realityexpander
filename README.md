@@ -85,8 +85,11 @@
 - [How to use Parcelable and custom @TypeParceler with Kotlin Multiplatform Mobile (KMM)](https://medium.com/@chrisathanas/how-to-use-parcels-on-kotlin-multiplatform-mobile-kmm-e29590816624)
 - Click here for all my articles: [CLICK FOR ARTICLES](https://medium.com/@chrisathanas)
 
-### Google Play
+### Google Play Store
 - [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7466162782462237210)
+
+### Apple App Store
+- [Apple App Store Developer Page](https://apps.apple.com/us/developer/christopher-day-athanas/id1671265345)
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
 - [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
