@@ -29,7 +29,7 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
 
-- How to Program From the Ground Up Series - [Click here for the follow-along live-code document](https://github.com/realityexpander/How_to_program_from_ground_up)
+- Free Programming Course: How to Program From the Ground Up YouTube Series - [Click here for the follow-along live-code document](https://github.com/realityexpander/How_to_program_from_ground_up)
 
   ### YouTube Series:
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
