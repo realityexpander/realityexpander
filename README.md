@@ -24,7 +24,7 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be">](https://github.com/realityexpander/FredsRoadtripStoryteller.git)
    ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/FredsRoadtripStoryteller?cache=0&style=social)
   
-- [Tasky](https://github.com/realityexpander/Tasky) - Android Native App - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 120 stars on GitHub!
+- [Tasky](https://github.com/realityexpander/Tasky) - Android Native App - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 130 stars on GitHub!
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
