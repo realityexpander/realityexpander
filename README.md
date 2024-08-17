@@ -5,12 +5,12 @@
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on KMP (Kotlin Multi-Platform) cross-platform iOS & Android projects & employing Alan Kay style OOP techniques
-- My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
+- 📺 My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Fred's Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
 - ⚡ Fun fact: The first computer I programmed was a [PDP-11](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) at the Boston Children's Museum in 1976
-- Check out the KMP Developers Group on Twitter: https://twitter.com/i/communities/1739883885658607808
-- Here's my famous programming course ["How to Program From The Ground Up"](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) on YouTube
+- 🤖 Check out the KMP Developers Group on Twitter: https://twitter.com/i/communities/1739883885658607808
+- 🙂 Here's my famous programming course ["How to Program From The Ground Up"](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) on YouTube
 
 ## LET ME HELP YOU WITH YOUR CROSS-PLATFORM APP DEVELOPMENT
 
