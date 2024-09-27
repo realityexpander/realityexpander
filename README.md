@@ -14,7 +14,6 @@
 
 ## LET ME HELP YOU WITH YOUR CROSS-PLATFORM APP DEVELOPMENT
 
-
 ### Interesting Android, iOS, Web & Cross-platform projects I have built:
 
 #### Larger Projects
@@ -35,6 +34,13 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
   ![Video likes](https://img.shields.io/youtube/likes/dBbowkwXtR0)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
+
+- Adventure Driven Development™ - [Click here for Design Guide in Google Docs](https://docs.google.com/document/d/1OIsthe4GlTrV3crSfpUCs4xzRvyvlrOZW4_feq97yNY/edit?usp=sharing)
+
+  ### YouTube Series:
+
+  [<img src="https://github.com/user-attachments/assets/03400a99-7a7e-4b76-aaaa-1b0db64a97ce" width=320>](https://www.youtube.com/playlist?list=PLzUxWOrVXB4Qs6UwcqslgrH3Gaj-cVBPr) ![YouTube Video Views](https://img.shields.io/youtube/views/AbyBWOUqKjE)
+  ![Video likes](https://img.shields.io/youtube/likes/AbyBWOUqKjE)
 
 - [Cloud Cover USA 2](https://github.com/realityexpander/CloudCoverUSA2) - Kotlin Multi-Platform App (KMP) for iOS, Android, Web & Desktop (Apple silicon)
   
