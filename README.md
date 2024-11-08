@@ -98,7 +98,7 @@
 - [Apple App Store Developer Page](https://apps.apple.com/us/developer/christopher-day-athanas/id1671265345)
 
 ### Portfolio Site (not updated since 2018, this repo is more recent)
-- [Chris Athanas's Portfolio](https://realityexpander.wix.com/resume)
+- [Chris Athanas's Portfolio](https://realityexpander.wixsite.com/resume)
 - [LinkedIn Profile](https://www.linkedin.com/in/chris-athanas/)
 
 StackOverflow reputation: 
