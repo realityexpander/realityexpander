@@ -12,7 +12,7 @@
 - 🤖 Check out the KMP Developers Group on Twitter: https://twitter.com/i/communities/1739883885658607808
 - 🙂 Here's my famous programming course ["How to Program From The Ground Up"](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) on YouTube
 
-## LET ME HELP YOU WITH YOUR CROSS-PLATFORM APP DEVELOPMENT
+## LET ME HELP YOU WITH YOUR CROSS-PLATFORM KMP/CMP APP DEVELOPMENT
 
 ### Interesting Android, iOS, Web & Cross-platform projects I have built:
 
@@ -23,7 +23,7 @@
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/4ee42d46-8d6b-4c17-b969-bd493d4736be">](https://github.com/realityexpander/FredsRoadtripStoryteller.git)
    ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/FredsRoadtripStoryteller?cache=0&style=social)
   
-- [Tasky](https://github.com/realityexpander/Tasky) - Android Native App - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 130 stars on GitHub!
+- [Tasky](https://github.com/realityexpander/Tasky) - Android Native App - Lite version of Google Calendar to track daily agenda items. MVVM / Kotlin / CLEAN, over 150 stars on GitHub! UPDATED FOR KOTLIN 2
   
   [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/66ca0806-efb9-4828-af73-4f4b20a9bf8b">](https://github.com/realityexpander/Tasky)
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/Tasky?cache=0&style=social)
