@@ -4,7 +4,7 @@
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on KMP (Kotlin Multi-Platform) cross-platform iOS & Android projects & employing Alan Kay style OOP techniques
+- 🔭 I’m currently working on KMP (Kotlin Multi-Platform) cross-platform iOS & Android projects & finishing my EE degree at Midlands Tech
 - 📺 My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Fred's Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
@@ -66,6 +66,13 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/HyperlocalWeather?cache=0&style=social)
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
+
+  ### Math Series:
+  - Pre-Calculus / Calculus I Flashcards Mini-App
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/ba1c0f8d-ea33-4826-ad3b-d1cee1e0faa0">](https://realityexpander.github.io/Flashcards/)
+  - Calculator Tools TI-NSpire / TI-84 Evo / TI-84 CE Plus
+    - https://github.com/realityexpander/TI-84_CE_EVO_TI-NSpire_CX_II
+  -   
 
 #### Smaller but still interesting
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
