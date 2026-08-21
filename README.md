@@ -72,6 +72,12 @@
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/ba1c0f8d-ea33-4826-ad3b-d1cee1e0faa0">](https://realityexpander.github.io/Flashcards/)
   - Pre-Calculus Calculator Tools TI-NSpire / TI-84 Evo / TI-84 CE Plus
     - https://github.com/realityexpander/TI-Pre-calculus-Tools-TI-84_CE_EVO_TI-NSpire_CX_II
+  - `EXPAND` and `FACTOR` polynomials for TI-84 Evo & CE
+    - https://github.com/realityexpander/TI-Factor-Expand-Polynomials-Symbolically-for-TI-84-Evo-and-CE
+  - `Expand()` and `factor()` for TI-NSpire
+    - https://github.com/realityexpander/TI-NSpire-Expand-Factor-Polynomials-Calculus-I
+  - Partial Fraction Decomposer
+    - https://github.com/realityexpander/TI-NSpire-Partial-Fraction-Decomposer-Calculus-I 
   - Calculus Interactive Explorer: Infinitesimals vs Limits
     - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
 
