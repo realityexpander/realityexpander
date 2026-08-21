@@ -68,7 +68,7 @@
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
   ### Math Series:
-  - Pre-Calculus / Calculus I Flashcards Mini-App
+  - Pre-Calculus & Calculus I Flashcards Mini-App
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/ba1c0f8d-ea33-4826-ad3b-d1cee1e0faa0">](https://realityexpander.github.io/Flashcards/)
   - Pre-Calculus Calculator Tools TI-NSpire / TI-84 Evo / TI-84 CE Plus
     - https://github.com/realityexpander/TI-Pre-calculus-Tools-TI-84_CE_EVO_TI-NSpire_CX_II
