@@ -4,7 +4,7 @@
 <!--
 **realityexpander/realityexpander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on KMP (Kotlin Multi-Platform) cross-platform iOS & Android projects & finishing my EE degree at Midlands Tech
+- 🔭 I’m currently working on KMP (Kotlin Multi-Platform) cross-platform iOS & Android projects & finishing my EE degree at Midlands Tech and University of South Carolina
 - 📺 My YouTube channel : [www.youtube.com/@chrisathanas](https://www.youtube.com/@chrisathanas)
 - 🌱 I’m exploring latest techniques using cross-platform Compose with KMP - check out my [Fred's Roadtrip Storyteller](https://github.com/realityexpander/FredsRoadtripStoryteller.git) project
 - 📫 How to reach me: realityexpanderdev@gmail.com
