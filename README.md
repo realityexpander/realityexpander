@@ -84,6 +84,8 @@
     - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
 
 #### Smaller but still interesting
+- [Complex Compose UI](https://github.com/realityexpander/ComplexComposeUI)
+  - <img width="235" alt="image" src="https://github.com/user-attachments/assets/e3bb0dc0-6c35-4003-8482-e647a4966f27" />
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
 - [Ktor Realtime Chat](https://github.com/realityexpander/KtorAndroidChat) - Realtime Chat App build with Ktor backend, MVVM, Compose, MongoDB Database, WebSockets, Ktor Client
 - [Spotify Clone](https://github.com/realityexpander/SpotifyClone) - Music streaming App & service using a Firebase back-end and the Exoplayer library
