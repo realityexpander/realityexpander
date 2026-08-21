@@ -77,7 +77,9 @@
   - `Expand()` and `factor()` for TI-NSpire
     - https://github.com/realityexpander/TI-NSpire-Expand-Factor-Polynomials-Calculus-I
   - Partial Fraction Decomposer for TI-Nspire
-    - https://github.com/realityexpander/TI-NSpire-Partial-Fraction-Decomposer-Calculus-I 
+    - https://github.com/realityexpander/TI-NSpire-Partial-Fraction-Decomposer-Calculus-I
+  - Intgrate and Derivate for TI-NSpire
+    - https://github.com/realityexpander/TI-NSpire-Calculus-I-Equation-Processor 
   - Calculus Interactive Explorer: Infinitesimals vs Limits
     - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
 
