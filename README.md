@@ -82,6 +82,9 @@
     - https://github.com/realityexpander/TI-NSpire-Calculus-I-Equation-Processor 
   - Calculus Interactive Explorer: Infinitesimals vs Limits
     - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
+  - Significant Figures Basic & Advanced Quiz applets
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/6fe6e8fd-1b1b-4394-a9a8-8c3696f16923">](https://realityexpander.github.io/CHM-110-Significant-Figures-Quizlet/)
+ 
 
 #### Smaller but still interesting
 - [Complex Compose UI](https://github.com/realityexpander/ComplexComposeUI)
