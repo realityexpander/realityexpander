@@ -87,10 +87,11 @@
       - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/6fe6e8fd-1b1b-4394-a9a8-8c3696f16923">](https://realityexpander.github.io/CHM-110-Significant-Figures-Quizlet/)
     - CMH-110 Nomenclature
       - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/7b3c3f48-374b-4703-b15e-7e905565a06d" />](https://realityexpander.github.io/CHM-110_nomenclature_quiz/)
-
- 
+  
 
 #### Smaller but still interesting
+- [Morse Code Glyph Trainer & Drill](https://github.com/realityexpander/Morse-Code-Glyph-Trainer/)
+  - [<img width="450" alt="image" src="https://github.com/user-attachments/assets/97e3a7f7-7644-4141-9dcf-cbaa8a37b5da">](https://github.com/realityexpander/Morse-Code-Glyph-Trainer/) 
 - [Complex Compose UI](https://github.com/realityexpander/ComplexComposeUI)
   - <img width="235" alt="image" src="https://github.com/user-attachments/assets/e3bb0dc0-6c35-4003-8482-e647a4966f27" />
 - [Pixabay Image Search](https://github.com/realityexpander/PixabayApp) - Pixabay Image Search app using MVVM, Compose, Infinite Scroll, Offline cache using Room Database, Image preview using AndroidView of PhotoView
