@@ -86,6 +86,9 @@
     - The Cemetech site doesn't seem to work anymore, and this is a single page app.
     - You can run locally and you can examine the source code, all written in standard Javascript.
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/1a6718d7-1787-4e0a-a05e-f7102c853bb9" />](https://realityexpander.github.io/TI-84-Evo-Plus-CE-List-Converter/)
+  - Calculus I Bounce Simulation explorer for Derivative graphs of position, velocity & acceleration
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/99a716b1-b080-4f31-b48b-775336fe46d5" />](https://github.com/realityexpander/Calculus-I-Bounce-Simulation)
+
  
    
 ### Science Series
