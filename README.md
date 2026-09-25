@@ -82,6 +82,13 @@
     - https://github.com/realityexpander/TI-NSpire-Calculus-I-Equation-Processor 
   - Calculus Interactive Explorer: Infinitesimals vs Limits
     - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
+  - List File Format Converter for TI-84 Plus CE (.xlst) <> Evo (.xlst2) (
+    - The Cemetech site doesn't seem to work anymore, and this is a single page app.
+    - You can run locally and you can examine the source code, all written in standard Javascript.
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/1a6718d7-1787-4e0a-a05e-f7102c853bb9" />](https://realityexpander.github.io/TI-84-Evo-Plus-CE-List-Converter/)
+ 
+   
+### Science Series
   - Chemistry Quiz Apps
     - CMH-110 Significant Figures Basic & Advanced Quiz applets
       - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/6fe6e8fd-1b1b-4394-a9a8-8c3696f16923">](https://realityexpander.github.io/CHM-110-Significant-Figures-Quizlet/)
