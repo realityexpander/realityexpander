@@ -67,7 +67,7 @@
 - [Slang-Dictionary](https://github.com/realityexpander/Slang-Dictionary) - American slang and regular dictionary based on [`dictionaryapi.dev`](https://dictionaryapi.dev), Pronounces the words and gives multiple definitions
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
-  ### Math Series:
+### Math Series:
   - Pre-Calculus & Calculus I Flashcards Mini-App
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/ba1c0f8d-ea33-4826-ad3b-d1cee1e0faa0">](https://realityexpander.github.io/Flashcards/)
   - Pre-Calculus Calculator Tools for TI-NSpire / TI-84 Evo / TI-84 CE Plus
@@ -91,7 +91,9 @@
   - Calculus I Drill App & .tns documents for Test 2 for Cengage WebAssign, Larson textbook.
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/abefa66e-e9ff-45c0-bfa8-70c135938755" />](https://realityexpander.github.io/Calculus-I-Trig-Identities-Drills-for-Cengage-WebAssign/)
 
-
+### Electrical Engineering Series:
+  - Electrical Engineering · ECE-101 Drill Quiz for Test 1 
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/5f90fd88-d823-4bd6-8b5d-c3142547b60e" >](https://realityexpander.github.io/ECE-101-Electronics-Quiz-App-for-Test-1-Resistors-Ohms-Law-KCL-KVL-/)
  
    
 ### Science Series
