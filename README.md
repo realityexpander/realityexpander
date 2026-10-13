@@ -31,26 +31,23 @@
 - My Famous Free Programming Course: How to Program From the Ground Up YouTube Series - [Click here for the follow-along live-code document](https://github.com/realityexpander/How_to_program_from_ground_up)
 
   ### YouTube Series:
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![YouTube Video Views](https://img.shields.io/youtube/views/dBbowkwXtR0)
-  ![Video likes](https://img.shields.io/youtube/likes/dBbowkwXtR0)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/7148cb38-62e9-4785-802e-57d64b8c3397">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4QHsURai1GmmhmqAUVNbfno) ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/How_to_program_from_ground_up?cache=0&style=social)
 
 - Adventure Driven Development™ - [Click here for Design Guide in Google Docs](https://docs.google.com/document/d/1OIsthe4GlTrV3crSfpUCs4xzRvyvlrOZW4_feq97yNY/edit?usp=sharing)
 
   ### YouTube Series:
 
-  [<img src="https://github.com/user-attachments/assets/03400a99-7a7e-4b76-aaaa-1b0db64a97ce" width=320>](https://www.youtube.com/playlist?list=PLzUxWOrVXB4Qs6UwcqslgrH3Gaj-cVBPr) ![YouTube Video Views](https://img.shields.io/youtube/views/AbyBWOUqKjE)
-  ![Video likes](https://img.shields.io/youtube/likes/AbyBWOUqKjE)
-
+  [<img src="https://github.com/user-attachments/assets/03400a99-7a7e-4b76-aaaa-1b0db64a97ce" width=320>](https://www.youtube.com/playlist?list=PLzUxWOrVXB4Qs6UwcqslgrH3Gaj-cVBPr)
+  
 - [Cloud Cover USA 2](https://github.com/realityexpander/CloudCoverUSA2) - Kotlin Multi-Platform App (KMP) for iOS, Android, Web & Desktop (Apple silicon)
   
   ### YouTube Series:
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/1cf87381-3ddc-4f88-80ea-853ffe7e08ac">](https://youtu.be/RinDCbTHcQI) ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/CloudCoverUSA2?cache=0&style=social) ![YouTube Video Views](https://img.shields.io/youtube/views/RinDCbTHcQI)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/1cf87381-3ddc-4f88-80ea-853ffe7e08ac">](https://youtu.be/RinDCbTHcQI) ![GitHub Repo stars](https://img.shields.io/github/stars/realityexpander/CloudCoverUSA2?cache=0&style=social)
  
 - [Compose Tips Series on YouTube](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm)
 
   ### YouTube Series:
-  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/6ef3334e-f6d6-4131-89f2-ae9d0520cf62">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm) ![YouTube Video Views](https://img.shields.io/youtube/views/MEK5D2qEtpI)
+  [<img src="https://github.com/realityexpander/realityexpander/assets/5157474/6ef3334e-f6d6-4131-89f2-ae9d0520cf62">](https://www.youtube.com/playlist?list=PLzUxWOrVXB4R8u8QU7L-wWZmAXxhP9UKm) 
 
 - [Translator KMM](https://github.com/realityexpander/Translator_KMM) - iOS and Android Cross-platform foreign language translator app written with KMM in Kotlin
   
