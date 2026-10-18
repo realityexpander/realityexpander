@@ -65,8 +65,16 @@
 - [Calorie Track](https://github.com/realityexpander/CalorieTrack) - Multi-module CLEAN architecture app to track calories using [`Open Food Api`](https://world.openfoodfacts.org/)
 
 ### Math Series:
+  - ### Math Quiz/Drill/Visualizations
   - Pre-Calculus & Calculus I Flashcards Mini-App
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/ba1c0f8d-ea33-4826-ad3b-d1cee1e0faa0">](https://realityexpander.github.io/Flashcards/)
+  - Calculus Interactive Explorer: Infinitesimals vs Limits
+    - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
+  - Calculus I Bounce Simulation explorer for Derivative graphs of position, velocity & acceleration
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/99a716b1-b080-4f31-b48b-775336fe46d5" />](https://realityexpander.github.io/Calculus-I-Bounce-Simulation/)
+  - Calculus I Drill App & .tns documents for Test 2 for Cengage WebAssign, Larson textbook.
+    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/abefa66e-e9ff-45c0-bfa8-70c135938755" />](https://realityexpander.github.io/Calculus-I-Trig-Identities-Drills-for-Cengage-WebAssign/)
+  - ### Calculator Programs & Apps
   - Pre-Calculus Calculator Tools for TI-NSpire / TI-84 Evo / TI-84 CE Plus
     - https://github.com/realityexpander/TI-Pre-calculus-Tools-TI-84_CE_EVO_TI-NSpire_CX_II
   - `EXPAND` and `FACTOR` polynomials for TI-84 Evo & CE
@@ -76,17 +84,13 @@
   - Partial Fraction Decomposer for TI-Nspire CX II - Non-CAS
     - https://github.com/realityexpander/TI-NSpire-Partial-Fraction-Decomposer-Calculus-I
   - Integrate and Derivate Symbolically for TI-NSpire CX II - Non-CAS
-    - https://github.com/realityexpander/TI-NSpire-Calculus-I-Equation-Processor 
-  - Calculus Interactive Explorer: Infinitesimals vs Limits
-    - [<img width="325" src="https://github.com/user-attachments/assets/c7ccbe42-719e-4386-a90f-cdbc59417b3d" alt="image">](https://realityexpander.github.io/Calculus_Infinitesimals_vs_Limit/)
+    - https://github.com/realityexpander/TI-NSpire-Calculus-I-Equation-Processor
+  - Synthetic Division for TI-84 Evo & Plus CE
+    - [<img width="324" alt="image" src="https://github.com/user-attachments/assets/9f385c59-bf7e-42d5-8bc6-4dec167c62ff" >](https://github.com/realityexpander/TI-84-Synthetic-Division-in-TI-BASIC-For-Evo-and-Plus-CE/blob/main/README.md)
   - List File Format Converter for TI-84 Plus CE (.xlst) <> Evo (.xlst2) (
     - The Cemetech site doesn't seem to work anymore, and this is a single page app.
     - You can run locally and you can examine the source code, all written in standard Javascript.
     - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/1a6718d7-1787-4e0a-a05e-f7102c853bb9" />](https://realityexpander.github.io/TI-84-Evo-Plus-CE-List-Converter/)
-  - Calculus I Bounce Simulation explorer for Derivative graphs of position, velocity & acceleration
-    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/99a716b1-b080-4f31-b48b-775336fe46d5" />](https://realityexpander.github.io/Calculus-I-Bounce-Simulation/)
-  - Calculus I Drill App & .tns documents for Test 2 for Cengage WebAssign, Larson textbook.
-    - [<img width="325" alt="image" src="https://github.com/user-attachments/assets/abefa66e-e9ff-45c0-bfa8-70c135938755" />](https://realityexpander.github.io/Calculus-I-Trig-Identities-Drills-for-Cengage-WebAssign/)
 
 ### Electrical Engineering Series:
   - Electrical Engineering · ECE-101 Drill Quiz for Test 1 
